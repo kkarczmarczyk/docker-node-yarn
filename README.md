@@ -1,7 +1,7 @@
 # Docker-node-yarn
-[https://hub.docker.com/r/kkarczmarczyk/node-yarn/]
+https://hub.docker.com/r/kkarczmarczyk/node-yarn/
 
-Node docker image with yarn package manager ( [http://yarnpkg.com] )
+Node docker image with yarn package manager ( http://yarnpkg.com )
 
 ## Supported tags and respective `Dockerfile` links
 
