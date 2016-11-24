@@ -1,4 +1,4 @@
-FROM node:7.1-slim
+FROM node:7.2-slim
 
 MAINTAINER Kamil Karczmarczyk <kkarczmarczyk@gmail.com>
 
