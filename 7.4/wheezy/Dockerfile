@@ -1,4 +1,4 @@
-FROM node:7.3-wheezy
+FROM node:7.4-wheezy
 
 MAINTAINER Kamil Karczmarczyk <kkarczmarczyk@gmail.com>
 

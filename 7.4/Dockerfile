@@ -1,4 +1,4 @@
-FROM node:7.3
+FROM node:7.4
 
 MAINTAINER Kamil Karczmarczyk <kkarczmarczyk@gmail.com>
 
