@@ -6,6 +6,9 @@ Node docker image with yarn package manager ( http://yarnpkg.com )
 ## Supported tags and respective `Dockerfile` links
 
 -       [`latest` (*latest/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/latest/Dockerfile)
+-       [`4.3.2`, (*4.3.2/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/4.3.2/Dockerfile) (Version used by AWS Lambda)
+-       [`4.3.2-slim`, (*4.3.2/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/4.3.2/slim/Dockerfile) (Version used by AWS Lambda)
+-       [`4.3.2-wheezy`, (*4.3.2/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/4.3.2/wheezy/Dockerfile) (Version used by AWS Lambda)
 -       [`4.6`, (*4.6/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/4.6/Dockerfile)
 -       [`4.6-slim`, (*4.6/slim/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/4.6/slim/Dockerfile)
 -       [`4.6-wheezy`, (*4.6/wheezy/Dockerfile*)](https://github.com/kkarczmarczyk/docker-node-yarn/blob/master/4.6/wheezy/Dockerfile)
